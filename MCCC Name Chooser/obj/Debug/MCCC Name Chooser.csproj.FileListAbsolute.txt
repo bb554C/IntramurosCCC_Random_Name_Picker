@@ -1,0 +1,20 @@
+D:\Google Drive\Buenaventura\Personal\Work\Pet Projects\MCCC Name Chooser\MCCC Name Chooser\bin\Debug\MCCC Name Chooser.exe.config
+D:\Google Drive\Buenaventura\Personal\Work\Pet Projects\MCCC Name Chooser\MCCC Name Chooser\bin\Debug\MCCC Name Chooser.exe
+D:\Google Drive\Buenaventura\Personal\Work\Pet Projects\MCCC Name Chooser\MCCC Name Chooser\bin\Debug\MCCC Name Chooser.pdb
+D:\Google Drive\Buenaventura\Personal\Work\Pet Projects\MCCC Name Chooser\MCCC Name Chooser\obj\Debug\MCCC Name Chooser.csprojAssemblyReference.cache
+D:\Google Drive\Buenaventura\Personal\Work\Pet Projects\MCCC Name Chooser\MCCC Name Chooser\obj\Debug\MCCC_Name_Chooser.Main.resources
+D:\Google Drive\Buenaventura\Personal\Work\Pet Projects\MCCC Name Chooser\MCCC Name Chooser\obj\Debug\MCCC_Name_Chooser.Properties.Resources.resources
+D:\Google Drive\Buenaventura\Personal\Work\Pet Projects\MCCC Name Chooser\MCCC Name Chooser\obj\Debug\MCCC Name Chooser.csproj.GenerateResource.cache
+D:\Google Drive\Buenaventura\Personal\Work\Pet Projects\MCCC Name Chooser\MCCC Name Chooser\obj\Debug\MCCC Name Chooser.csproj.CoreCompileInputs.cache
+D:\Google Drive\Buenaventura\Personal\Work\Pet Projects\MCCC Name Chooser\MCCC Name Chooser\obj\Debug\MCCC Name Chooser.exe
+D:\Google Drive\Buenaventura\Personal\Work\Pet Projects\MCCC Name Chooser\MCCC Name Chooser\obj\Debug\MCCC Name Chooser.pdb
+D:\Google Drive\Buenaventura\Personal\Work\Pet Projects\IntramurosCCC_Random_Name_Picker\MCCC Name Chooser\bin\Debug\MCCC Name Chooser.exe.config
+D:\Google Drive\Buenaventura\Personal\Work\Pet Projects\IntramurosCCC_Random_Name_Picker\MCCC Name Chooser\bin\Debug\MCCC Name Chooser.exe
+D:\Google Drive\Buenaventura\Personal\Work\Pet Projects\IntramurosCCC_Random_Name_Picker\MCCC Name Chooser\bin\Debug\MCCC Name Chooser.pdb
+D:\Google Drive\Buenaventura\Personal\Work\Pet Projects\IntramurosCCC_Random_Name_Picker\MCCC Name Chooser\obj\Debug\MCCC Name Chooser.csprojAssemblyReference.cache
+D:\Google Drive\Buenaventura\Personal\Work\Pet Projects\IntramurosCCC_Random_Name_Picker\MCCC Name Chooser\obj\Debug\MCCC_Name_Chooser.Main.resources
+D:\Google Drive\Buenaventura\Personal\Work\Pet Projects\IntramurosCCC_Random_Name_Picker\MCCC Name Chooser\obj\Debug\MCCC_Name_Chooser.Properties.Resources.resources
+D:\Google Drive\Buenaventura\Personal\Work\Pet Projects\IntramurosCCC_Random_Name_Picker\MCCC Name Chooser\obj\Debug\MCCC Name Chooser.csproj.GenerateResource.cache
+D:\Google Drive\Buenaventura\Personal\Work\Pet Projects\IntramurosCCC_Random_Name_Picker\MCCC Name Chooser\obj\Debug\MCCC Name Chooser.csproj.CoreCompileInputs.cache
+D:\Google Drive\Buenaventura\Personal\Work\Pet Projects\IntramurosCCC_Random_Name_Picker\MCCC Name Chooser\obj\Debug\MCCC Name Chooser.exe
+D:\Google Drive\Buenaventura\Personal\Work\Pet Projects\IntramurosCCC_Random_Name_Picker\MCCC Name Chooser\obj\Debug\MCCC Name Chooser.pdb
